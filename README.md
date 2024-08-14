@@ -1,9 +1,5 @@
 # Energy-Prediction-Using-BDG2-Data
 
-data : https://drive.google.com/drive/folders/1XwDgH2sRt3vHiWx-207atXLFmgMyXmVa?usp=drive_link 
-
-
-
 # BDG2 Energy Prediction
 
 Welcome to the BDG2 Energy Prediction project!  
@@ -26,6 +22,7 @@ The project utilizes three primary datasets from the BDG2 collection, covering t
 - **Building Metadata**: This dataset includes descriptive attributes for 1,636 buildings, such as primary usage, the number of floors, total area, and site ID, which groups buildings in the same location.
 - **Weather Data**: Provides daily weather conditions for each site, including air temperature, cloud coverage, and wind direction. The weather data was analyzed for seasonality and compared across the two years.
 - **Meter Readings**: Contains hourly energy consumption data for eight different energy sources, including electricity, chilled water, steam, hot water, gas, water, irrigation, and solar. The analysis focuses on the five most prevalent meter types: electricity, chilled water, hot water, and gas, excluding steam due to data inconsistencies.
+- Link to data: https://drive.google.com/drive/folders/1XwDgH2sRt3vHiWx-207atXLFmgMyXmVa?usp=drive_link 
 
 ### Data Preprocessing
 
